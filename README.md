@@ -325,7 +325,6 @@ body {
 
 <img width="1916" height="358" alt="image" src="https://github.com/user-attachments/assets/c8413481-53e4-4685-94f3-82070af72590" />
 
-<img width="1919" height="449" alt="image" src="https://github.com/user-attachments/assets/27733547-8527-468f-b115-b7eacbcb6073" />
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
