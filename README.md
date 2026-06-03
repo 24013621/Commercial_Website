@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
 ## Date: 26/05/2026
+## Name : AHAMED JASEER SHA E
+## Register Number : 212224040015
 
 ## AIM
 To create a commercial website using CSS Flexbox.
